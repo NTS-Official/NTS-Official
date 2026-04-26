@@ -1,12 +1,12 @@
 # Hi there 👋, this is NoTuring_Steve.
 ### (aka Stargray Lin)
-<br>
+<br></br>
 ## Something about me...
 ### 🔭 I’m currently working on some Minecraft mods, etc.
-which got a lot of things to do...<br>
+which got a lot of things to do...<br></br>
 (aka 画大饼)
 ### ⚡ Notes here
-There aren't any notes here, at least for now.<br>
+There aren't any notes here, at least for now.<br></br>
 Maybe it could get extended after my graduation.(?)
 
 <!--
