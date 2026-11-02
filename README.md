@@ -1,6 +1,6 @@
 # Hi there 👋, this is NoTuring_Steve.
 
-### (aka Stargray Lin)
+### (aka Stargray Lin) | [Ifadian Page](https://ifdian.net/a/astral_nts)
 
 [**English**] | [[**简体中文**](README_ZH.md)]
 

@@ -1,6 +1,6 @@
 # 哈喽 👋，这里是 NoTuring_Steve！
 
-### (也可以叫我 林星恢)
+### (也可以叫我 林星恢) | [爱发电页面](https://ifdian.net/a/astral_nts)
 
 [[**English**](README.md)] | [**简体中文**]
 
